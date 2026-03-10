@@ -1,0 +1,7 @@
+{
+  "name": "LosGeniosApp_Prod_10-03-26",
+  "description": "Una landing page visualmente atractiva para una pizzería con un asistente impulsado por IA para tomar y reservar pedidos para desplegar en vercel.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
